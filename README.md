@@ -12,7 +12,7 @@ Run the program by
 
 Enter the url, press space and then hit enter.
 
-> Enter the url, press space and then hit Enter: https://github.com/Allwin12/Python-script-download-stack-overflow-Q-A/blob/master/screenshots/Screenshot%20from%202019-10-22%2016-08-19.png
+> Enter the url, press space and then hit Enter: https://stackoverflow.com/questions/7327056/appending-html-string-to-the-dom?noredirect=1&lq=1
 
 The file will be downloaded on the same directory.
 
